@@ -1,0 +1,68 @@
+body {
+    font-family: 'Text Me One', sans-serif;
+}
+
+h1 {
+    font-family: 'Text Me One', sans-serif;
+}
+
+div {
+    border:1px
+}
+
+.my_btn_color {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: cadetblue;
+    background-image: url(banner.jpg);
+    background-size:contain; 
+    background-attachment:fixed;
+}
+
+.jumbotron2 {
+    background-color: cadetblue;
+    background-image: url(banner2.jpeg);
+    background-size:auto; 
+    background-attachment:fixed;
+    height:300px;
+}
+
+h1 {
+    color:white!important;
+    font-weight:bold;
+    background-color: black;
+}
+
+.fixedheight {
+    height: 300px;
+    overflow: hidden;
+}
+
+.my_icon_color {
+    color:crimson;
+}
+
+.my_margin_bottom {
+    margn-bottom:30px;
+}
+
+.my_link:hover {
+    text-decoration:none;
+}
+
+.my_link {
+    color:black;
+}
+
+h3 {
+    color:blueviolet
+}
+
+.my_font {
+    color:black!important;
+    font-weight:bold;
+    background-color:white;
+}
+
